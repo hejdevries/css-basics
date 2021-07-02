@@ -1,0 +1,23 @@
+body { 
+    color: rgb(13, 66, 8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    line-height: 1.5em;
+}
+h1 {
+    border-bottom: 3px solid rgb(105, 167, 105);
+}
+.black-border {
+    border: 1px solid black;
+}
+#green-background {
+    background-color: rgb(105, 167, 105);
+}
+#light-green-background {
+    background-color: rgb(175, 241, 158);
+}
+footer {
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}        
